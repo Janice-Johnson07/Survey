@@ -2,20 +2,38 @@ h1{
     font-family: 'Times New Roman', Times, serif;
     color:#071A52;
     text-align: center;
+    
 
 }
 body{
-    background-color: #93B5C6;
+    background-image: url("https://th.bing.com/th/id/R.5946f5971cc64126e4c829935126ad04?rik=DjklibZS86SYiA&riu=http%3a%2f%2fwallup.net%2fwp-content%2fuploads%2f2017%2f03%2f27%2f198689-texture-abstract-blue.jpg&ehk=3XqKUTshrrEPc%2fyAQCwdQXSZuhdALTjKvnxMtj9oXVQ%3d&risl=&pid=ImgRaw&r=0");
+    
+    
     text-align: center;
 }
+
+
+
 
 p{
     text-align:left;
     font-family: 'Times New Roman', Times, serif;
     color:black;
     font-size: 150%;
+    font-style:bold;
 
 }
+
+hr{
+    background-color: white;
+    border-style:  none;
+    border-top-style: dashed;
+    border-color: #38a3a5;
+    border-width: 5px;
+    width: 100%;
+    
+}   
+
 
 img {
     border: 1px solid #ddd;
@@ -43,7 +61,7 @@ form {
 
 div{
     font-family: 'Times New Roman', Times, serif;
-    color: #11324D; 
+    color: black;
     
 }
 
@@ -70,4 +88,8 @@ select, textarea */
             width: 100%;
             margin-top: 50px;
             margin-bottom: 20px;
-        }        
+        } 
+    button:hover{
+        background-color: gold;
+
+        }       
